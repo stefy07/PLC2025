@@ -38,11 +38,11 @@ class Circle {
     // System.out.println("dbl called"); // BAD!
     return Math.pow(b,2);
   }
-
-  // public void printS(String[] args) {
-  //   if(shouldPaintS(10, 10, 10)){
-  //     System.out.println("Painting");
-  //   }
-  // }
-  //test comment
+//edit made by me.
+  public void printS(String[] args) {
+     if(shouldPaintS(10, 10, 10)){
+    System.out.println("Painting");
+  }
+  }
+  //Edit made by Arpit Kaur 
 }
